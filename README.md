@@ -3,6 +3,9 @@
 To classify *Saccharomyces cerevisiae* time series gene expression profiles
 into the 5 mitotic cell cycle phases - Early G1, Late G1, S, G2, M.
 
+* [Poster](poster.pdf)
+* [Report](report.pdf)
+
 ## Introduction
 
 * Time series microarray experiments generate labelled temporal profiles which are
