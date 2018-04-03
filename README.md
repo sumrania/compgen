@@ -34,12 +34,22 @@ Networks:
 Dynamic Warping Distance: 
  * `DTW_kNN.py`
 
-4. Gen-HMM and Disc-HMM: developed by Z.
+4. Generative-Hidden Markov Model and Discriminative-Hidden Markov Model developed by Z.
 Bar-Joseph et al.: 
  * The code for this was downloaded from their paper and used as is.
+ * Links to paper and original code:
+   * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2718630/
+   * http://www.cs.cmu.edu/$sim $thlin/tram/
 
 5. L1-norm Temporal SVM developed by Orsenigo et al.:
- * The code for this was downloaded from their paper and used as is.
+ * Baseline benchmark.
+ * Link to paper:
+   * https://link.springer.com/content/pdf/10.1007%2F978-3-642-16001-1_23.pdf
+
+
+## Dataset
+http://genomics.stanford.edu/yeast_cell_cycle/cellcycle.html
+
 
 ## Results
 
