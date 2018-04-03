@@ -36,10 +36,11 @@ Dynamic Warping Distance:
 
 4. Generative-Hidden Markov Model and Discriminative-Hidden Markov Model developed by Z.
 Bar-Joseph et al.: 
+ * `tram/`
  * The code for this was downloaded from their paper and used as is.
  * Links to paper and original code:
    * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2718630/
-   * http://www.cs.cmu.edu/$sim $thlin/tram/
+   * http://www.cs.cmu.edu/$sim%20$thlin/tram/
 
 5. L1-norm Temporal SVM developed by Orsenigo et al.:
  * Baseline benchmark.
